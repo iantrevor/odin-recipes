@@ -1,0 +1,10 @@
+/* initial CSS for TOP recipes page */
+
+body {
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+img {
+    width: 300px;
+    height: auto;
+}
